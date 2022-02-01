@@ -1,3 +1,3 @@
 # ohtu-2022-viikko1
 
-muutos
+![GitHub Actions](https://github.com/henkkah/ohtu-2022-viikko1/workflows/CI/badge.svg)
